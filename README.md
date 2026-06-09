@@ -18,7 +18,6 @@ ASSBI is an intelligent traffic monitoring system that:
 
 Perfect for traffic analysis, road safety studies, or automated traffic management systems.
 
-
 ---
 
 ## ✨ Features
@@ -409,3 +408,4 @@ Future improvements planned:
 ---
 
 **Last Updated**: 2026-06-07 | **Version**: 1.1
+
